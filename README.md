@@ -1,4 +1,4 @@
-# Welcome to your CDK TypeScript project!
+# Welcome to the AWS CDK Demo - CloudOuest2020 
 
 This is a blank project for TypeScript development with CDK.
 
